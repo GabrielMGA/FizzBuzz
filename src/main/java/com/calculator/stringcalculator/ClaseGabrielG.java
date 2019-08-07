@@ -13,5 +13,6 @@ public class ClaseGabrielG {
    int x=0;
    int y=1;
    int z=2;
+   int w=8;
 
 }
