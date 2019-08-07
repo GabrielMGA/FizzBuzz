@@ -2,14 +2,19 @@ package com.calculator.stringcalculator;
 
 public class DavidDMG12{
     
-    public void Saluda() {
+	private String nombre="Mi nombre es David";
+   	
+   	public void Saluda() {
         System.out.println("Hola");
     }
 
-    public String fizz(int number) {
+    public void NumeroDivisible() {
 
-        if (number % 3 == 0)
-            return "Fizz";
-        return "";
+    	private int num=3;
+    	if (num%3==0) {
+
+    		System.out.println("Fizz");
+    	}
+       
     }
 }
