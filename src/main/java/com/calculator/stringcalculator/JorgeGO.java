@@ -1,6 +1,7 @@
 package com.calculator.stringcalculator;
 
 public class JorgeGO {
+    String mensaje = "DIVISIBLE";
 
     public void Saluda() {
         System.out.println("Hola");
